@@ -30,8 +30,9 @@ The Automated Irrigation System is a smart farming solution designed to optimize
   - LCD/OLED display for status
  
 ## Simulation 
-This project has been under simulation via Tinkercad. You can view the simulation of the hardware setup and operation in [Tinkercad.](https://www.tinkercad.com/things/k0iVctQt8BX-grand-blad/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=KtZxoQ3xQKasQ37uHxbxWLsYcvVQCF09tDHtpAp2kzw)
+<img width="939" height="552" alt="image" src="https://github.com/user-attachments/assets/ef0a976d-1d7e-42e1-b50e-08c7e15f476a" />
 
+This project has been under simulation via Tinkercad. You can view the simulation of the hardware setup and operation in [Tinkercad.]([https://www.tinkercad.com/things/k0iVctQt8BX-grand-blad/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=KtZxoQ3xQKasQ37uHxbxWLsYcvVQCF09tDHtpAp2kzw](https://www.tinkercad.com/things/k0iVctQt8BX-grand-blad/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=KtZxoQ3xQKasQ37uHxbxWLsYcvVQCF09tDHtpAp2kzw))
 
 ## 📋 Prerequisites
 
@@ -96,7 +97,7 @@ Edit the following constants in `main.ino`:
 
 ## 📊 How It Works
 
-1. **Reading**: Continuously reads analog input from soil moisture sensor
+1. **Reading**: Continuously reads analog input from soil moisture sensor, temperature sensor and light sensor.
 2. **Comparison**: Compares current moisture level with threshold value
 3. **Activation**: If moisture falls below threshold, activates pump
 4. **Timing**: Pump runs for a set duration, then stops
@@ -121,12 +122,6 @@ See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for more details.
 Contributions are welcome! Please feel free to:
 - Report bugs and issues
 - Suggest new features
-- Submit pull requests with improvements
-- Improve documentation
-
-## 📝 License
-
-This project is open source. See LICENSE file for details (if applicable).
 
 ## 👤 Author
 
