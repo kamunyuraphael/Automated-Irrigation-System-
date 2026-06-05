@@ -28,6 +28,10 @@ The Automated Irrigation System is a smart farming solution designed to optimize
   - Real-time clock module (DS3231)
   - GSM/WiFi module for remote monitoring
   - LCD/OLED display for status
+ 
+## Simulation 
+This project has been under simulation via Tinkercad. You can view the simulation of the hardware setup and operation in [Tinkercad.](https://www.tinkercad.com/things/k0iVctQt8BX-grand-blad/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=KtZxoQ3xQKasQ37uHxbxWLsYcvVQCF09tDHtpAp2kzw)
+
 
 ## 📋 Prerequisites
 
